@@ -11,14 +11,3 @@ pip install seaborn==0.10.1
 pip install librosa==0.6.3
 pip install numba==0.48.0
 pip install soundfile==0.12.1
-
-
-pip uninstall -y librosa resampy numba llvmlite numpy scipy soundfile
-
-pip install numpy==1.19.5
-pip install llvmlite==0.31.0
-pip install numba==0.48.0
-pip install scipy==1.5.4
-pip install soundfile==0.10.2
-pip install resampy==0.2.2
-pip install librosa==0.8.0
